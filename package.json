@@ -1,0 +1,13 @@
+{
+    "name": "nodejs-connector-base",
+    "version": "0.1.0",
+    "description": "Base packages for nodejs connector",
+    "license": "UNLICENSED",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com:raasify/nodejs-connector-base.git"
+    },
+    "dependencies": {
+        "urllib": "^3.5.2"
+    }
+}
