@@ -8,6 +8,7 @@
         "url": "git://github.com:raasify/nodejs-connector-base.git"
     },
     "dependencies": {
+        "bluebird": "^3.7.2",
         "pcap": "^3.1.0",
         "urllib": "^3.5.2"
     }
