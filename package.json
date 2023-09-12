@@ -8,6 +8,7 @@
         "url": "git://github.com:raasify/nodejs-connector-base.git"
     },
     "dependencies": {
+        "async-mqtt": "^2.6.3",
         "bluebird": "^3.7.2",
         "mqtt": "^5.0.5",
         "pcap": "^3.1.0",
