@@ -11,6 +11,7 @@
         "async-mqtt": "^2.6.3",
         "bluebird": "^3.7.2",
         "mqtt": "^5.0.5",
+        "modbus-serial": "^8.0.13",
         "pcap": "^3.1.0",
         "urllib": "^3.5.2"
     }
