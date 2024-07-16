@@ -12,6 +12,7 @@
         "bluebird": "^3.7.2",
         "console-stamp": "3.1.2",
         "express": "4.19.2",
+        "luxon": "3.4.4",
         "modbus-serial": "^8.0.13",
         "mqtt": "^5.0.5",
         "mysql2": "3.6.1",
