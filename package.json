@@ -5,7 +5,7 @@
     "license": "UNLICENSED",
     "repository": {
         "type": "git",
-        "url": "git://github.com:raasify/nodejs-connector-base.git"
+        "url": "git://github.com:wilma/nodejs-connector-base.git"
     },
     "dependencies": {
         "async-mqtt": "^2.6.3",
